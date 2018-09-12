@@ -1,0 +1,68 @@
+.navbar{
+    margin-bottom: 0;
+}
+.form-control{
+    width: 100%;
+}
+.regi_c{
+    margin-top: 15px;
+    border-radius: 0;
+    background: #44474c;
+    color: #fff;
+}
+.log_c{
+    margin-top: 15px;
+    border-radius: 0;
+    background: #f5f5f5;
+    color: #fff;
+}
+.form_back{
+    background: #44474c;
+    color: #fff;
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+.nav_style{
+    background: #31bfa5;
+   
+}
+.nav_text{
+    
+    color: white;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+}
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+.container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+
+}
+.btn{
+    border-radius: 0;
+}
+.btn-default{
+    color: #fff;
+    background: #31bfa5;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#btnsub{
+    
+    width: 100%;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+.login_back{
+    background: #44474c;
+    color: #fff;
+    padding-top: 190px;
+    padding-bottom: 190px;
+}
+.loginbox{
+    background: #fff;
+    padding: 60px;
+}
