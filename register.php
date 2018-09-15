@@ -3,8 +3,9 @@ include 'includes/db.php';
 ?>
 <?php
 if(isset($_POST['submit'])){
+    $en_pw= md5($_POST['password']);
    $sql="INSERT INTO member (fname, lname, email, password)
-VALUES ('$_POST[f_name]', '$_POST[l_name]', '$_POST[email]', '$_POST[password]')";
+VALUES ('$_POST[f_name]', '$_POST[l_name]', '$_POST[email]', '$en_pw')";
    mysqli_query($conn, $sql);
 }
 

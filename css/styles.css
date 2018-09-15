@@ -1,6 +1,11 @@
 .navbar{
     margin-bottom: 0;
 }
+#brand{
+    
+    margin-left: 26px;
+    margin-right: 26px;
+}
 .form-control{
     width: 100%;
 }
@@ -15,6 +20,7 @@
     border-radius: 0;
     background: #f5f5f5;
     color: #fff;
+    height: 46px;
 }
 .form_back{
     background: #44474c;
@@ -64,5 +70,5 @@
 }
 .loginbox{
     background: #fff;
-    padding: 60px;
+    padding: 24px;
 }
